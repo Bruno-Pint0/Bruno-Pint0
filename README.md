@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bruno-Pint0
-- 👀 I’m interested in new opprotunities
+- 👀 I’m interested in new opportunities
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data analysis and machine learning
 - 📫 Get in touch and let's create history together!!!
